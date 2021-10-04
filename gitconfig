@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jesypzhang@gmail.com
+	name = yiping zhang
